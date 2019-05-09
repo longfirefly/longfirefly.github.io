@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to longlong Pages
 
-You can use the [editor on GitHub](https://github.com/longfirefly/longfirefly.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+欢迎来到我的个人博客网站，希望能够解决你的困难
 
 ### Markdown
 
